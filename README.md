@@ -1,4 +1,5 @@
-# farm_system_union / 10월 1주차
+# farm_system_union
+# 10월 1주차 기술보고서(산업시스템공학과 2022112386 김호준 in IoTogether 
 
 ## 아두이노 IDE 다운로드와 설정 
 
